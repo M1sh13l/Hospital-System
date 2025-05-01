@@ -37,7 +37,7 @@ It manages patient records, emergency room queues, treatments, and history track
 - Seifeldin Elshiaty
 
 ## 🔗 GitHub Repository Link
-[GitHub Repo](https://github.com/yourusername/hospital-system) (replace this with your actual link after publishing)
+[GitHub Repo](https://github.com/M1sh13l/Hospital-System)
 
 ---
 *Created with by Mashael, Sarah, and Seif.*
