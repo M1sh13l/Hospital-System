@@ -1,3 +1,7 @@
+// Hospital Management System - Group Project
+// Developed by: Mashael Saeed, Sarah Elshiaty, Seifeldin Elshiaty
+// Description: Manages patients, ER, treatments using data structures
+
 #include <iostream>
 #include <queue>
 #include <stack>
