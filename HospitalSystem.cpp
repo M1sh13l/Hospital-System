@@ -325,7 +325,8 @@ public:
                 case 6: undoLastTreatment(); break;
                 case 7: searchPatient(); break;
                 case 8: viewERQueue(); break;
-                case 0: cout << ">> Exiting...\n"; break;
+                case 0: cout << ">> Exiting...\n";
+                 cout << ">> Thank you for using the Hospital Management System. Stay healthy!\n"; break;
                 default: cout << ">> Invalid choice.\n";
             }
         } while (choice != 0);
